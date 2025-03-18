@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neerajsahu14/coding-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neerajsahu14/coding-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |

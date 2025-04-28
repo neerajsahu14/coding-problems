@@ -4,19 +4,7 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 
 ## 📋 LeetCode Topics
 
-### Array
-| Problem |
-| :------ |
-| [0026 - Remove Duplicates from Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0035 - Search Insert Position](https://github.com/neerajsahu14/coding-problems/tree/master/0035-search-insert-position) |
-| [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
-| [0088 - Merge Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0088-merge-sorted-array) |
-| [0118 - Pascal's Triangle](https://github.com/neerajsahu14/coding-problems/tree/master/0118-pascals-triangle) |
-| [0119 - Pascal's Triangle II](https://github.com/neerajsahu14/coding-problems/tree/master/0119-pascals-triangle-ii) |
-| [0121 - Best Time to Buy and Sell Stock](https://github.com/neerajsahu14/coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
-| [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
-| [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+#
 
 ### Two Pointers
 | Problem |
@@ -69,6 +57,7 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/neerajsahu14/coding-problems/tree/master/0005-longest-palindromic-substring) |
 | [0026 - Remove Duplicates from Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/0031-next-permutation) |
 | [0088 - Merge Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0088-merge-sorted-array) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 ## String
@@ -82,4 +71,18 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 | [0118 - Pascal's Triangle](https://github.com/neerajsahu14/coding-problems/tree/master/0118-pascals-triangle) |
 | [0119 - Pascal's Triangle II](https://github.com/neerajsahu14/coding-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121 - Best Time to Buy and Sell Stock](https://github.com/neerajsahu14/coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Array
+|  |
+| ------- |
+| [0026 - Remove Duplicates from Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/0031-next-permutation) |
+| [0035 - Search Insert Position](https://github.com/neerajsahu14/coding-problems/tree/master/0035-search-insert-position) |
+| [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
+| [0088 - Merge Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0088-merge-sorted-array) |
+| [0118 - Pascal's Triangle](https://github.com/neerajsahu14/coding-problems/tree/master/0118-pascals-triangle) |
+| [0119 - Pascal's Triangle II](https://github.com/neerajsahu14/coding-problems/tree/master/0119-pascals-triangle-ii) |
+| [0121 - Best Time to Buy and Sell Stock](https://github.com/neerajsahu14/coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
+| [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
+| [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->

@@ -68,6 +68,7 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 | [0035 - Search Insert Position](https://github.com/neerajsahu14/coding-problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/neerajsahu14/coding-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/neerajsahu14/coding-problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/neerajsahu14/coding-problems/tree/master/0056-merge-intervals) |
 | [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/neerajsahu14/coding-problems/tree/master/0075-sort-colors) |
 | [0088 - Merge Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0088-merge-sorted-array) |
@@ -84,6 +85,7 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/neerajsahu14/coding-problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/neerajsahu14/coding-problems/tree/master/0075-sort-colors) |
 | [0088 - Merge Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0088-merge-sorted-array) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |

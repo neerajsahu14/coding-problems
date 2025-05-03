@@ -8,11 +8,7 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 
 #
 
-### Binary Search
-| Problem |
-| :------ |
-| [0035 - Search Insert Position](https://github.com/neerajsahu14/coding-problems/tree/master/0035-search-insert-position) |
-| [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
+#
 
 ### Greedy
 | Problem |
@@ -47,6 +43,7 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 | [0031-next-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/neerajsahu14/coding-problems/tree/master/0075-sort-colors) |
 | [0088 - Merge Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
@@ -75,6 +72,7 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 | [0118 - Pascal's Triangle](https://github.com/neerajsahu14/coding-problems/tree/master/0118-pascals-triangle) |
 | [0119 - Pascal's Triangle II](https://github.com/neerajsahu14/coding-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121 - Best Time to Buy and Sell Stock](https://github.com/neerajsahu14/coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -107,4 +105,14 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 | [0048-rotate-image](https://github.com/neerajsahu14/coding-problems/tree/master/0048-rotate-image) |
 | [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
+## Binary Search
+|  |
+| ------- |
+| [0035 - Search Insert Position](https://github.com/neerajsahu14/coding-problems/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
+| [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

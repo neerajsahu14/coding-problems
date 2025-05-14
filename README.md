@@ -67,6 +67,7 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 | [0053-maximum-subarray](https://github.com/neerajsahu14/coding-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/neerajsahu14/coding-problems/tree/master/0056-merge-intervals) |
 | [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/neerajsahu14/coding-problems/tree/master/0075-sort-colors) |
 | [0088 - Merge Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0088-merge-sorted-array) |
 | [0118 - Pascal's Triangle](https://github.com/neerajsahu14/coding-problems/tree/master/0118-pascals-triangle) |
@@ -104,11 +105,13 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 | ------- |
 | [0048-rotate-image](https://github.com/neerajsahu14/coding-problems/tree/master/0048-rotate-image) |
 | [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
 | [0035 - Search Insert Position](https://github.com/neerajsahu14/coding-problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 ## Bit Manipulation

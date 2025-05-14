@@ -95,11 +95,13 @@ A comprehensive collection of LeetCode questions to master coding interviews! Cr
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/neerajsahu14/coding-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/neerajsahu14/coding-problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/neerajsahu14/coding-problems/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |

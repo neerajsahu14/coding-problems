@@ -1,7 +1,5 @@
 # 🚀 Coding Problems Collection
 
-A comprehensive collection of LeetCode questions to master coding interviews! Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
 ## 📋 LeetCode Topics
 
 #

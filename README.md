@@ -48,6 +48,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/neerajsahu14/coding-problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/neerajsahu14/coding-problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
 | [0118 - Pascal's Triangle](https://github.com/neerajsahu14/coding-problems/tree/master/0118-pascals-triangle) |
 | [0119 - Pascal's Triangle II](https://github.com/neerajsahu14/coding-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121 - Best Time to Buy and Sell Stock](https://github.com/neerajsahu14/coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/neerajsahu14/coding-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/neerajsahu14/coding-problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -131,4 +133,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/neerajsahu14/coding-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0229-majority-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

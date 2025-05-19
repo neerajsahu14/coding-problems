@@ -55,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0001-two-sum) |
 | [0026 - Remove Duplicates from Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/0031-next-permutation) |
 | [0035 - Search Insert Position](https://github.com/neerajsahu14/coding-problems/tree/master/0035-search-insert-position) |
@@ -124,6 +125,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0001-two-sum) |
 | [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/neerajsahu14/coding-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0229-majority-element-ii) |

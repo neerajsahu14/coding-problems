@@ -34,6 +34,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/neerajsahu14/coding-problems/tree/master/0005-longest-palindromic-substring) |
 | [0026 - Remove Duplicates from Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/neerajsahu14/coding-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/neerajsahu14/coding-problems/tree/master/0075-sort-colors) |
 | [0088 - Merge Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0088-merge-sorted-array) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0001-two-sum) |
 | [0026 - Remove Duplicates from Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/neerajsahu14/coding-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/0031-next-permutation) |
 | [0035 - Search Insert Position](https://github.com/neerajsahu14/coding-problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/neerajsahu14/coding-problems/tree/master/0048-rotate-image) |

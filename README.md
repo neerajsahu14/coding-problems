@@ -77,6 +77,7 @@
 | [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
+| [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/neerajsahu14/coding-problems/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->

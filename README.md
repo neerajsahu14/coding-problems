@@ -45,6 +45,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/neerajsahu14/coding-problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/neerajsahu14/coding-problems/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/neerajsahu14/coding-problems/tree/master/0014-longest-common-prefix) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
@@ -161,4 +162,8 @@
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/neerajsahu14/coding-problems/tree/master/2058-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/neerajsahu14/coding-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

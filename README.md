@@ -46,6 +46,7 @@
 | [0005-longest-palindromic-substring](https://github.com/neerajsahu14/coding-problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/neerajsahu14/coding-problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/neerajsahu14/coding-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/0020-valid-parentheses) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
@@ -166,4 +167,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/neerajsahu14/coding-problems/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

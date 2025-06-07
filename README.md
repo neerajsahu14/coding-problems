@@ -49,6 +49,7 @@
 | [0014-longest-common-prefix](https://github.com/neerajsahu14/coding-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@
 | [0048-rotate-image](https://github.com/neerajsahu14/coding-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/neerajsahu14/coding-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -169,6 +172,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/neerajsahu14/coding-problems/tree/master/2058-concatenation-of-array) |
 ## Trie

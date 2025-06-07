@@ -35,6 +35,7 @@
 | [0005-longest-palindromic-substring](https://github.com/neerajsahu14/coding-problems/tree/master/0005-longest-palindromic-substring) |
 | [0026 - Remove Duplicates from Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/neerajsahu14/coding-problems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/neerajsahu14/coding-problems/tree/master/0075-sort-colors) |
 | [0088 - Merge Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0088-merge-sorted-array) |
@@ -47,6 +48,7 @@
 | [0006-zigzag-conversion](https://github.com/neerajsahu14/coding-problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/neerajsahu14/coding-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0219-contains-duplicate-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

@@ -135,6 +135,7 @@
 | [0050-powx-n](https://github.com/neerajsahu14/coding-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Matrix
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/neerajsahu14/coding-problems/tree/master/0011-container-with-most-water) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |

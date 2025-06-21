@@ -228,4 +228,5 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/neerajsahu14/coding-problems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

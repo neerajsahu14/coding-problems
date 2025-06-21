@@ -16,10 +16,7 @@
 
 #
 
-### Breadth-First Search
-| Problem |
-| :------ |
-| [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
+#
 
 #
 
@@ -229,4 +226,18 @@
 | ------- |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/neerajsahu14/coding-problems/tree/master/1916-find-center-of-star-graph) |
+| [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
+| [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

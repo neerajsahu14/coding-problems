@@ -230,11 +230,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -245,9 +247,11 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

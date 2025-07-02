@@ -201,6 +201,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -247,11 +249,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

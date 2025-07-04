@@ -54,6 +54,7 @@
 | [0005-longest-palindromic-substring](https://github.com/neerajsahu14/coding-problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/neerajsahu14/coding-problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
+| [0095-unique-binary-search-trees-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/neerajsahu14/coding-problems/tree/master/0096-unique-binary-search-trees) |
 | [0118 - Pascal's Triangle](https://github.com/neerajsahu14/coding-problems/tree/master/0118-pascals-triangle) |
 | [0119 - Pascal's Triangle II](https://github.com/neerajsahu14/coding-problems/tree/master/0119-pascals-triangle-ii) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/neerajsahu14/coding-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0039-combination-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0095-unique-binary-search-trees-ii) |
 ## Graph
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/neerajsahu14/coding-problems/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -262,6 +265,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/neerajsahu14/coding-problems/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -270,6 +274,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/neerajsahu14/coding-problems/tree/master/0096-unique-binary-search-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

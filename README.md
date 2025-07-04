@@ -4,16 +4,16 @@ A comprehensive collection of algorithmic problems and solutions, focusing on Le
 
 ## 📊 Progress Overview
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-57-brightgreen)
-![Easy Problems](https://img.shields.io/badge/Easy-28-green)
-![Medium Problems](https://img.shields.io/badge/Medium-27-orange)
-![Hard Problems](https://img.shields.io/badge/Hard-2-red)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-{{PROBLEM_COUNT}}-brightgreen)
+![Easy Problems](https://img.shields.io/badge/Easy-{{EASY_COUNT}}-green)
+![Medium Problems](https://img.shields.io/badge/Medium-{{MEDIUM_COUNT}}-orange)
+![Hard Problems](https://img.shields.io/badge/Hard-{{HARD_COUNT}}-red)
 
 ### 🎯 Current Statistics
-- **Total Problems Solved**: 57
-- **Easy**: 28 problems (49.1%)
-- **Medium**: 27 problems (47.4%)
-- **Hard**: 2 problems (3.5%)
+- **Total Problems Solved**: {{PROBLEM_COUNT}}
+- **Easy**: {{EASY_COUNT}} problems ({{EASY_PERCENT}}%)
+- **Medium**: {{MEDIUM_COUNT}} problems ({{MEDIUM_PERCENT}}%)
+- **Hard**: {{HARD_COUNT}} problems ({{HARD_PERCENT}}%)
 
 ## 🗂️ Repository Structure
 

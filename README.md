@@ -206,3 +206,19 @@ The repository maintains detailed statistics in `stats.json` with:
 - Comprehensive problem metadata
 
 **Happy Coding! 🎉**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/neerajsahu14/coding-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/neerajsahu14/coding-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/neerajsahu14/coding-problems/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->

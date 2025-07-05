@@ -218,6 +218,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
@@ -226,6 +227,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
@@ -247,6 +250,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |

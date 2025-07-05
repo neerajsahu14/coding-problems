@@ -225,6 +225,7 @@
 | [0110-balanced-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -258,6 +259,7 @@
 | [0110-balanced-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -274,6 +276,7 @@
 | [0110-balanced-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -282,6 +285,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Hash Function
 |  |

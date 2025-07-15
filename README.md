@@ -31,6 +31,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@
 | [0119 - Pascal's Triangle II](https://github.com/neerajsahu14/coding-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121 - Best Time to Buy and Sell Stock](https://github.com/neerajsahu14/coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/neerajsahu14/coding-problems/tree/master/0169-majority-element) |
+| [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/neerajsahu14/coding-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/neerajsahu14/coding-problems/tree/master/0228-summary-ranges) |
@@ -132,6 +134,7 @@
 | [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
@@ -188,6 +191,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/neerajsahu14/coding-problems/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 ## Stack
 |  |
 | ------- |
@@ -216,6 +220,7 @@
 | [0037-sudoku-solver](https://github.com/neerajsahu14/coding-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 ## Graph
 |  |
 | ------- |

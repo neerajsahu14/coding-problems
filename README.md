@@ -30,6 +30,7 @@
 | [0020-valid-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@
 | [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/neerajsahu14/coding-problems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
 | [0088 - Merge Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0088-merge-sorted-array) |
 | [0118 - Pascal's Triangle](https://github.com/neerajsahu14/coding-problems/tree/master/0118-pascals-triangle) |
 | [0119 - Pascal's Triangle II](https://github.com/neerajsahu14/coding-problems/tree/master/0119-pascals-triangle-ii) |
@@ -129,6 +131,7 @@
 | [0048-rotate-image](https://github.com/neerajsahu14/coding-problems/tree/master/0048-rotate-image) |
 | [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
@@ -212,6 +215,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/neerajsahu14/coding-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
 ## Graph
 |  |
 | ------- |
@@ -221,6 +225,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0101-symmetric-tree) |

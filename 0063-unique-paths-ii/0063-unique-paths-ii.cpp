@@ -1,17 +1,21 @@
 class Solution {
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        int n = obstacleGrid.size();
         int m = obstacleGrid[0].size();
-        unordered_map<int,unordered_map<int,int>> dp;
-        dp[n-1][m-1] = 1;
-        function<int(int, int)> dfs =[&](int r, int c){
-            if(r>n-1 || c>m-1 || obstacleGrid[r][c])
-                return 0;
-            if(dp[r][c]) return dp[r][c];
-            dp[r][c] = dfs(r+1,c) + dfs(r,c+1);
-            return dp[r][c];
-        };
-        return dfs(0,0);
+        int n = obstacleGrid.size();
+        if(obstacleGrid[n-1][m-1]) return 0;
+
+        vector<long long> dp(m,0);
+        for(int i=n-1;i>=0;i--){
+            for(int j=m-1; j>=0;j--){
+                if(obstacleGrid[i][j]){
+                    dp[j]=0;
+                }else if (i == n - 1 && j == m - 1) {
+                    dp[j] = 1;
+                } else if(j+1<m)
+                    dp[j] +=dp[j+1];
+            }
+        }
+        return static_cast<int>(dp[0]);
     }
 };

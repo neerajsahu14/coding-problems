@@ -83,6 +83,7 @@
 | [0229-majority-element-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
+| [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
@@ -138,6 +139,7 @@
 | [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
+| [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
@@ -154,6 +156,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
+| [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +227,7 @@
 | [0039-combination-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
+| [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 ## Graph
 |  |
 | ------- |

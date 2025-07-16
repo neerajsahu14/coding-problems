@@ -14,7 +14,7 @@ public:
         }
         return dfs(sx,sy,zCount,grid);
     }
-    int dfs(int r, int c, int count, vector<vector<int>> grid){
+    int dfs(int r, int c, int count, vector<vector<int>> &grid){
         if(r<0 || c<0 || r>=grid.size() || c>=grid[0].size() || grid[r][c]==-1 ) return 0;
 
         if(grid[r][c]==2) return count == -1? 1 : 0;

@@ -81,6 +81,7 @@
 | [0219-contains-duplicate-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/neerajsahu14/coding-problems/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
@@ -109,6 +110,7 @@
 | [0169-majority-element](https://github.com/neerajsahu14/coding-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/neerajsahu14/coding-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 ## Linked List
 |  |
@@ -127,6 +129,7 @@
 | [0050-powx-n](https://github.com/neerajsahu14/coding-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Matrix
 |  |
@@ -149,12 +152,14 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/neerajsahu14/coding-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035 - Search Insert Position](https://github.com/neerajsahu14/coding-problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 ## Hash Table
@@ -168,6 +173,7 @@
 | [0217-contains-duplicate](https://github.com/neerajsahu14/coding-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting

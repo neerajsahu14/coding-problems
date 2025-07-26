@@ -2,12 +2,12 @@ class Solution {
   public:
     bool twoSum(vector<int>& arr, int k) {
         // code here
-        sort(arr.begin(),arr.end());
-        int l=0, r= arr.size()-1;
-        while(l<r){
-            if(arr[l]+arr[r]==k) return true;
-            else if(arr[l]+arr[r]<k) l++;
-            else r--;
+        set<int> st;
+        int n = arr.size();
+        for(int i=0; i<n;i++){
+            if(st.find(arr[i])!= st.end()) return true;
+            int diff = k-arr[i];
+            st.insert(diff);
         }
         return false;
     }

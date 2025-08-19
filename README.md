@@ -91,6 +91,7 @@
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/neerajsahu14/coding-problems/tree/master/2058-concatenation-of-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
@@ -134,6 +135,7 @@
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/neerajsahu14/coding-problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/neerajsahu14/coding-problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Matrix
 |  |

@@ -50,6 +50,7 @@
 | [1044-find-common-characters](https://github.com/neerajsahu14/coding-problems/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/neerajsahu14/coding-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neerajsahu14/coding-problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/neerajsahu14/coding-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -296,6 +297,7 @@
 | [0476-number-complement](https://github.com/neerajsahu14/coding-problems/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/neerajsahu14/coding-problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neerajsahu14/coding-problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/neerajsahu14/coding-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Hash Table
 |  |
@@ -364,6 +366,7 @@
 | [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/neerajsahu14/coding-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/neerajsahu14/coding-problems/tree/master/0921-spiral-matrix-iii) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neerajsahu14/coding-problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1803-average-waiting-time](https://github.com/neerajsahu14/coding-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |

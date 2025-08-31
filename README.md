@@ -238,6 +238,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/neerajsahu14/coding-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3388-right-triangles](https://github.com/neerajsahu14/coding-problems/tree/master/3388-right-triangles) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/neerajsahu14/coding-problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/neerajsahu14/coding-problems/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/neerajsahu14/coding-problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/neerajsahu14/coding-problems/tree/master/3398-make-a-square-with-the-same-color) |
@@ -293,6 +294,7 @@
 | [2846-robot-collisions](https://github.com/neerajsahu14/coding-problems/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/neerajsahu14/coding-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/neerajsahu14/coding-problems/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3430-count-days-without-meetings](https://github.com/neerajsahu14/coding-problems/tree/master/3430-count-days-without-meetings) |
 ## Linked List
 |  |
@@ -565,6 +567,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/neerajsahu14/coding-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/neerajsahu14/coding-problems/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |

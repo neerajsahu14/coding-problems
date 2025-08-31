@@ -149,6 +149,7 @@
 | [0136-single-number](https://github.com/neerajsahu14/coding-problems/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/neerajsahu14/coding-problems/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/neerajsahu14/coding-problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/neerajsahu14/coding-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0219-contains-duplicate-ii) |
@@ -344,6 +345,7 @@
 | [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/neerajsahu14/coding-problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/neerajsahu14/coding-problems/tree/master/0463-island-perimeter) |
 | [0870-magic-squares-in-grid](https://github.com/neerajsahu14/coding-problems/tree/master/0870-magic-squares-in-grid) |
@@ -595,6 +597,7 @@
 | [0112-path-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/neerajsahu14/coding-problems/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/neerajsahu14/coding-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/neerajsahu14/coding-problems/tree/master/0310-minimum-height-trees) |
@@ -626,6 +629,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/neerajsahu14/coding-problems/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/neerajsahu14/coding-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/neerajsahu14/coding-problems/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/neerajsahu14/coding-problems/tree/master/0463-island-perimeter) |
@@ -644,6 +648,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/neerajsahu14/coding-problems/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |

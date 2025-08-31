@@ -49,6 +49,7 @@
 | [0165-compare-version-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/neerajsahu14/coding-problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/neerajsahu14/coding-problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/neerajsahu14/coding-problems/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/neerajsahu14/coding-problems/tree/master/0402-remove-k-digits) |
@@ -278,6 +279,7 @@
 | [0169-majority-element](https://github.com/neerajsahu14/coding-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/neerajsahu14/coding-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/neerajsahu14/coding-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0502-ipo](https://github.com/neerajsahu14/coding-problems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/neerajsahu14/coding-problems/tree/master/0506-relative-ranks) |
@@ -447,6 +449,7 @@
 | [0217-contains-duplicate](https://github.com/neerajsahu14/coding-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/neerajsahu14/coding-problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |

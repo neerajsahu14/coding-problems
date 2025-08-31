@@ -223,6 +223,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/neerajsahu14/coding-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/neerajsahu14/coding-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/neerajsahu14/coding-problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1803-average-waiting-time](https://github.com/neerajsahu14/coding-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -304,6 +305,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/neerajsahu14/coding-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/neerajsahu14/coding-problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/neerajsahu14/coding-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajsahu14/coding-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/neerajsahu14/coding-problems/tree/master/2502-sort-the-people) |

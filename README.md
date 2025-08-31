@@ -97,6 +97,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/neerajsahu14/coding-problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/neerajsahu14/coding-problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1196-filling-bookcase-shelves](https://github.com/neerajsahu14/coding-problems/tree/master/1196-filling-bookcase-shelves) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/neerajsahu14/coding-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -183,6 +184,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/neerajsahu14/coding-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/neerajsahu14/coding-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/neerajsahu14/coding-problems/tree/master/1217-relative-sort-array) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
 | [1331-path-with-maximum-gold](https://github.com/neerajsahu14/coding-problems/tree/master/1331-path-with-maximum-gold) |
 | [1333-sort-the-jumbled-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -340,6 +342,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1331-path-with-maximum-gold](https://github.com/neerajsahu14/coding-problems/tree/master/1331-path-with-maximum-gold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/neerajsahu14/coding-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |

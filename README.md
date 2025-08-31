@@ -185,6 +185,7 @@
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/neerajsahu14/coding-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/neerajsahu14/coding-problems/tree/master/0648-replace-words) |
+| [0661-image-smoother](https://github.com/neerajsahu14/coding-problems/tree/master/0661-image-smoother) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/neerajsahu14/coding-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0753-open-the-lock](https://github.com/neerajsahu14/coding-problems/tree/master/0753-open-the-lock) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/neerajsahu14/coding-problems/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -390,6 +391,7 @@
 | [0200-number-of-islands](https://github.com/neerajsahu14/coding-problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/neerajsahu14/coding-problems/tree/master/0463-island-perimeter) |
+| [0661-image-smoother](https://github.com/neerajsahu14/coding-problems/tree/master/0661-image-smoother) |
 | [0870-magic-squares-in-grid](https://github.com/neerajsahu14/coding-problems/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/neerajsahu14/coding-problems/tree/master/0921-spiral-matrix-iii) |

@@ -39,6 +39,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/neerajsahu14/coding-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/neerajsahu14/coding-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/neerajsahu14/coding-problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -114,6 +115,7 @@
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/neerajsahu14/coding-problems/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/neerajsahu14/coding-problems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -231,6 +233,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
@@ -238,6 +241,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/neerajsahu14/coding-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0229-majority-element-ii) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Combinatorics
 |  |

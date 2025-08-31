@@ -161,6 +161,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/neerajsahu14/coding-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/neerajsahu14/coding-problems/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
+| [1331-path-with-maximum-gold](https://github.com/neerajsahu14/coding-problems/tree/master/1331-path-with-maximum-gold) |
 | [1333-sort-the-jumbled-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -292,6 +293,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
+| [1331-path-with-maximum-gold](https://github.com/neerajsahu14/coding-problems/tree/master/1331-path-with-maximum-gold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/neerajsahu14/coding-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -476,6 +478,7 @@
 | [0140-word-break-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
+| [1331-path-with-maximum-gold](https://github.com/neerajsahu14/coding-problems/tree/master/1331-path-with-maximum-gold) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |

@@ -91,6 +91,7 @@
 | [0264-ugly-number-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0264-ugly-number-ii) |
 | [0552-student-attendance-record-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0552-student-attendance-record-ii) |
 | [0650-2-keys-keyboard](https://github.com/neerajsahu14/coding-problems/tree/master/0650-2-keys-keyboard) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/neerajsahu14/coding-problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1196-filling-bookcase-shelves](https://github.com/neerajsahu14/coding-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -171,6 +172,7 @@
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/neerajsahu14/coding-problems/tree/master/1044-find-common-characters) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/neerajsahu14/coding-problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/neerajsahu14/coding-problems/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/neerajsahu14/coding-problems/tree/master/1137-height-checker) |
 | [1196-filling-bookcase-shelves](https://github.com/neerajsahu14/coding-problems/tree/master/1196-filling-bookcase-shelves) |

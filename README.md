@@ -309,6 +309,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/neerajsahu14/coding-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -317,6 +318,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/neerajsahu14/coding-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/neerajsahu14/coding-problems/tree/master/0273-integer-to-english-words) |
@@ -325,6 +327,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/neerajsahu14/coding-problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/neerajsahu14/coding-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/neerajsahu14/coding-problems/tree/master/0050-powx-n) |

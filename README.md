@@ -88,6 +88,7 @@
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/neerajsahu14/coding-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1503-reducing-dishes](https://github.com/neerajsahu14/coding-problems/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/neerajsahu14/coding-problems/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/neerajsahu14/coding-problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -171,6 +172,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1503-reducing-dishes](https://github.com/neerajsahu14/coding-problems/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/neerajsahu14/coding-problems/tree/master/1511-count-number-of-teams) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/neerajsahu14/coding-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -240,6 +242,7 @@
 | [1137-height-checker](https://github.com/neerajsahu14/coding-problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/neerajsahu14/coding-problems/tree/master/1217-relative-sort-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1503-reducing-dishes](https://github.com/neerajsahu14/coding-problems/tree/master/1503-reducing-dishes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/neerajsahu14/coding-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -482,6 +485,7 @@
 | [0890-lemonade-change](https://github.com/neerajsahu14/coding-problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0891-score-after-flipping-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajsahu14/coding-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1503-reducing-dishes](https://github.com/neerajsahu14/coding-problems/tree/master/1503-reducing-dishes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajsahu14/coding-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/neerajsahu14/coding-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |

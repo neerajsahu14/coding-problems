@@ -68,6 +68,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/neerajsahu14/coding-problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neerajsahu14/coding-problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1619-path-crossing](https://github.com/neerajsahu14/coding-problems/tree/master/1619-path-crossing) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/neerajsahu14/coding-problems/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
@@ -804,6 +805,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/neerajsahu14/coding-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/neerajsahu14/coding-problems/tree/master/1321-get-equal-substrings-within-budget) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/neerajsahu14/coding-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2044-number-of-wonderful-substrings](https://github.com/neerajsahu14/coding-problems/tree/master/2044-number-of-wonderful-substrings) |

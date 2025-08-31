@@ -50,6 +50,7 @@
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/neerajsahu14/coding-problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/neerajsahu14/coding-problems/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/neerajsahu14/coding-problems/tree/master/0402-remove-k-digits) |
 | [0514-freedom-trail](https://github.com/neerajsahu14/coding-problems/tree/master/0514-freedom-trail) |
 | [0564-find-the-closest-palindrome](https://github.com/neerajsahu14/coding-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/neerajsahu14/coding-problems/tree/master/0592-fraction-addition-and-subtraction) |
@@ -530,6 +531,7 @@
 | [0085-maximal-rectangle](https://github.com/neerajsahu14/coding-problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/neerajsahu14/coding-problems/tree/master/0402-remove-k-digits) |
 | [0726-number-of-atoms](https://github.com/neerajsahu14/coding-problems/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -555,6 +557,7 @@
 | [0011-container-with-most-water](https://github.com/neerajsahu14/coding-problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0045-jump-game-ii) |
 | [0330-patching-array](https://github.com/neerajsahu14/coding-problems/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/neerajsahu14/coding-problems/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/neerajsahu14/coding-problems/tree/master/0502-ipo) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/neerajsahu14/coding-problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -840,6 +843,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/neerajsahu14/coding-problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/neerajsahu14/coding-problems/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/neerajsahu14/coding-problems/tree/master/0402-remove-k-digits) |
 | [2573-remove-nodes-from-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |

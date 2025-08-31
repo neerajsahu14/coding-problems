@@ -64,6 +64,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/neerajsahu14/coding-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3379-score-of-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/neerajsahu14/coding-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/neerajsahu14/coding-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3451-string-compression-iii](https://github.com/neerajsahu14/coding-problems/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
@@ -377,6 +378,7 @@
 | [2502-sort-the-people](https://github.com/neerajsahu14/coding-problems/tree/master/2502-sort-the-people) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3412-permutation-difference-between-two-strings](https://github.com/neerajsahu14/coding-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/neerajsahu14/coding-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |

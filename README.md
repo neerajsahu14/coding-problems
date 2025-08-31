@@ -101,6 +101,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/neerajsahu14/coding-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/neerajsahu14/coding-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/neerajsahu14/coding-problems/tree/master/0890-lemonade-change) |
+| [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
@@ -172,6 +173,7 @@
 | [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
+| [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/neerajsahu14/coding-problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -214,6 +216,7 @@
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
@@ -313,6 +316,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -327,6 +331,7 @@
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -334,6 +339,7 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
 |  |

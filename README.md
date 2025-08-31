@@ -39,6 +39,7 @@
 | [0273-integer-to-english-words](https://github.com/neerajsahu14/coding-problems/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/neerajsahu14/coding-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/neerajsahu14/coding-problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0726-number-of-atoms](https://github.com/neerajsahu14/coding-problems/tree/master/0726-number-of-atoms) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/neerajsahu14/coding-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -167,6 +168,7 @@
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/neerajsahu14/coding-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0726-number-of-atoms](https://github.com/neerajsahu14/coding-problems/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -264,6 +266,7 @@
 | [0264-ugly-number-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0726-number-of-atoms](https://github.com/neerajsahu14/coding-problems/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/neerajsahu14/coding-problems/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
@@ -319,6 +322,7 @@
 | [0020-valid-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0726-number-of-atoms](https://github.com/neerajsahu14/coding-problems/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window

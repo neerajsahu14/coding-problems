@@ -68,6 +68,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/neerajsahu14/coding-problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neerajsahu14/coding-problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1619-path-crossing](https://github.com/neerajsahu14/coding-problems/tree/master/1619-path-crossing) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/neerajsahu14/coding-problems/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2044-number-of-wonderful-substrings](https://github.com/neerajsahu14/coding-problems/tree/master/2044-number-of-wonderful-substrings) |
@@ -477,6 +478,7 @@
 | [1217-relative-sort-array](https://github.com/neerajsahu14/coding-problems/tree/master/1217-relative-sort-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/neerajsahu14/coding-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1619-path-crossing](https://github.com/neerajsahu14/coding-problems/tree/master/1619-path-crossing) |
 | [2044-number-of-wonderful-substrings](https://github.com/neerajsahu14/coding-problems/tree/master/2044-number-of-wonderful-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/neerajsahu14/coding-problems/tree/master/2306-create-binary-tree-from-descriptions) |

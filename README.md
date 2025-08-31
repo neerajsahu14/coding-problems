@@ -508,6 +508,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/neerajsahu14/coding-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/neerajsahu14/coding-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -558,6 +559,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/neerajsahu14/coding-problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/neerajsahu14/coding-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/neerajsahu14/coding-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -583,6 +585,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/neerajsahu14/coding-problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/neerajsahu14/coding-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/neerajsahu14/coding-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |

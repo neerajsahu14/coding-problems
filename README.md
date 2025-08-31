@@ -565,6 +565,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/neerajsahu14/coding-problems/tree/master/0133-clone-graph) |
+| [0310-minimum-height-trees](https://github.com/neerajsahu14/coding-problems/tree/master/0310-minimum-height-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/neerajsahu14/coding-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -587,6 +588,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0310-minimum-height-trees](https://github.com/neerajsahu14/coding-problems/tree/master/0310-minimum-height-trees) |
 | [0514-freedom-trail](https://github.com/neerajsahu14/coding-problems/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -614,6 +616,7 @@
 | [0112-path-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/neerajsahu14/coding-problems/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/neerajsahu14/coding-problems/tree/master/0310-minimum-height-trees) |
 | [0514-freedom-trail](https://github.com/neerajsahu14/coding-problems/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -763,6 +766,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/neerajsahu14/coding-problems/tree/master/0310-minimum-height-trees) |
 | [2472-build-a-matrix-with-conditions](https://github.com/neerajsahu14/coding-problems/tree/master/2472-build-a-matrix-with-conditions) |
 ## Queue
 |  |

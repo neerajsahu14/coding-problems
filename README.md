@@ -147,6 +147,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/neerajsahu14/coding-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/neerajsahu14/coding-problems/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/neerajsahu14/coding-problems/tree/master/0876-hand-of-straights) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/neerajsahu14/coding-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/neerajsahu14/coding-problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0891-score-after-flipping-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/neerajsahu14/coding-problems/tree/master/0921-spiral-matrix-iii) |
@@ -229,6 +230,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/neerajsahu14/coding-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/neerajsahu14/coding-problems/tree/master/0726-number-of-atoms) |
 | [0876-hand-of-straights](https://github.com/neerajsahu14/coding-problems/tree/master/0876-hand-of-straights) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/neerajsahu14/coding-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajsahu14/coding-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/neerajsahu14/coding-problems/tree/master/1137-height-checker) |
@@ -406,6 +408,7 @@
 | [0264-ugly-number-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0264-ugly-number-ii) |
 | [0502-ipo](https://github.com/neerajsahu14/coding-problems/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/neerajsahu14/coding-problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/neerajsahu14/coding-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/neerajsahu14/coding-problems/tree/master/1127-last-stone-weight) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -468,6 +471,7 @@
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/neerajsahu14/coding-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0876-hand-of-straights](https://github.com/neerajsahu14/coding-problems/tree/master/0876-hand-of-straights) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/neerajsahu14/coding-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/neerajsahu14/coding-problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0891-score-after-flipping-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajsahu14/coding-problems/tree/master/0982-minimum-increment-to-make-array-unique) |

@@ -237,6 +237,7 @@
 | [3373-maximum-prime-difference](https://github.com/neerajsahu14/coding-problems/tree/master/3373-maximum-prime-difference) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/neerajsahu14/coding-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3388-right-triangles](https://github.com/neerajsahu14/coding-problems/tree/master/3388-right-triangles) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/neerajsahu14/coding-problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/neerajsahu14/coding-problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/neerajsahu14/coding-problems/tree/master/3398-make-a-square-with-the-same-color) |
@@ -488,6 +489,7 @@
 | [0948-sort-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/neerajsahu14/coding-problems/tree/master/1127-last-stone-weight) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/neerajsahu14/coding-problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Merge Sort
 |  |
 | ------- |
@@ -594,6 +596,7 @@
 | [2171-second-minimum-time-to-reach-destination](https://github.com/neerajsahu14/coding-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/neerajsahu14/coding-problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/neerajsahu14/coding-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/neerajsahu14/coding-problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -790,6 +793,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/neerajsahu14/coding-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/neerajsahu14/coding-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/neerajsahu14/coding-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/neerajsahu14/coding-problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Bucket Sort
 |  |
 | ------- |

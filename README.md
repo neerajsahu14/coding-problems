@@ -142,6 +142,7 @@
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/neerajsahu14/coding-problems/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/neerajsahu14/coding-problems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajsahu14/coding-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/neerajsahu14/coding-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/neerajsahu14/coding-problems/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -183,6 +184,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajsahu14/coding-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/neerajsahu14/coding-problems/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/neerajsahu14/coding-problems/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -371,6 +373,7 @@
 | [0890-lemonade-change](https://github.com/neerajsahu14/coding-problems/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajsahu14/coding-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajsahu14/coding-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -559,6 +562,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0948-sort-an-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajsahu14/coding-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Topological Sort
 |  |
 | ------- |

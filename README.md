@@ -154,6 +154,7 @@
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/neerajsahu14/coding-problems/tree/master/1044-find-common-characters) |
+| [1127-last-stone-weight](https://github.com/neerajsahu14/coding-problems/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/neerajsahu14/coding-problems/tree/master/1137-height-checker) |
 | [1196-filling-bookcase-shelves](https://github.com/neerajsahu14/coding-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/neerajsahu14/coding-problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -385,6 +386,7 @@
 | [0502-ipo](https://github.com/neerajsahu14/coding-problems/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/neerajsahu14/coding-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/neerajsahu14/coding-problems/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |

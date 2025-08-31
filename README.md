@@ -213,6 +213,7 @@
 | [2914-find-the-safest-path-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/neerajsahu14/coding-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/neerajsahu14/coding-problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/neerajsahu14/coding-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/neerajsahu14/coding-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/3391-maximum-difference-score-in-a-grid) |
@@ -377,6 +378,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/neerajsahu14/coding-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-number-of-wonderful-substrings](https://github.com/neerajsahu14/coding-problems/tree/master/2044-number-of-wonderful-substrings) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/neerajsahu14/coding-problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/neerajsahu14/coding-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/neerajsahu14/coding-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table

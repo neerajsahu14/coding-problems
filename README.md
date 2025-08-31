@@ -258,6 +258,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/neerajsahu14/coding-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/0206-reverse-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -292,6 +293,7 @@
 | [2645-pass-the-pillow](https://github.com/neerajsahu14/coding-problems/tree/master/2645-pass-the-pillow) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -460,6 +462,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2846-robot-collisions](https://github.com/neerajsahu14/coding-problems/tree/master/2846-robot-collisions) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |

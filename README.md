@@ -42,6 +42,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/neerajsahu14/coding-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/neerajsahu14/coding-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/neerajsahu14/coding-problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/neerajsahu14/coding-problems/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
@@ -388,6 +389,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/neerajsahu14/coding-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/neerajsahu14/coding-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/neerajsahu14/coding-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/neerajsahu14/coding-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/neerajsahu14/coding-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/neerajsahu14/coding-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
@@ -457,6 +460,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/neerajsahu14/coding-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/neerajsahu14/coding-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/neerajsahu14/coding-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
 | ------- |

@@ -171,6 +171,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/neerajsahu14/coding-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1803-average-waiting-time](https://github.com/neerajsahu14/coding-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/neerajsahu14/coding-problems/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/neerajsahu14/coding-problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -264,6 +265,7 @@
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/neerajsahu14/coding-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/neerajsahu14/coding-problems/tree/master/2645-pass-the-pillow) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -320,6 +322,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neerajsahu14/coding-problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/neerajsahu14/coding-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/neerajsahu14/coding-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
@@ -372,6 +375,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Heap (Priority Queue)
 |  |
@@ -461,6 +465,7 @@
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Graph
 |  |
@@ -656,4 +661,8 @@
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

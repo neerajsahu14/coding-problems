@@ -71,6 +71,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/neerajsahu14/coding-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajsahu14/coding-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2429-design-a-food-rating-system](https://github.com/neerajsahu14/coding-problems/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/neerajsahu14/coding-problems/tree/master/2444-longest-ideal-subsequence) |
 | [2502-sort-the-people](https://github.com/neerajsahu14/coding-problems/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/neerajsahu14/coding-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -228,6 +229,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajsahu14/coding-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/neerajsahu14/coding-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/neerajsahu14/coding-problems/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2429-design-a-food-rating-system](https://github.com/neerajsahu14/coding-problems/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/neerajsahu14/coding-problems/tree/master/2472-build-a-matrix-with-conditions) |
@@ -461,6 +463,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/neerajsahu14/coding-problems/tree/master/2044-number-of-wonderful-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/neerajsahu14/coding-problems/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2429-design-a-food-rating-system](https://github.com/neerajsahu14/coding-problems/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/neerajsahu14/coding-problems/tree/master/2444-longest-ideal-subsequence) |
 | [2502-sort-the-people](https://github.com/neerajsahu14/coding-problems/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/neerajsahu14/coding-problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -500,6 +503,7 @@
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/neerajsahu14/coding-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/neerajsahu14/coding-problems/tree/master/1127-last-stone-weight) |
+| [2429-design-a-food-rating-system](https://github.com/neerajsahu14/coding-problems/tree/master/2429-design-a-food-rating-system) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/neerajsahu14/coding-problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Merge Sort
@@ -772,6 +776,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/neerajsahu14/coding-problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2429-design-a-food-rating-system](https://github.com/neerajsahu14/coding-problems/tree/master/2429-design-a-food-rating-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -855,4 +860,8 @@
 |  |
 | ------- |
 | [3373-maximum-prime-difference](https://github.com/neerajsahu14/coding-problems/tree/master/3373-maximum-prime-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/neerajsahu14/coding-problems/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->

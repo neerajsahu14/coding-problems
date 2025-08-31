@@ -190,6 +190,7 @@
 | [0229-majority-element-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/neerajsahu14/coding-problems/tree/master/0133-clone-graph) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/neerajsahu14/coding-problems/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -277,6 +279,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -297,6 +300,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/neerajsahu14/coding-problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2121-find-if-path-exists-in-graph](https://github.com/neerajsahu14/coding-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
 |  |

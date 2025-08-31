@@ -58,6 +58,7 @@
 | [0140-word-break-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/neerajsahu14/coding-problems/tree/master/0650-2-keys-keyboard) |
+| [1196-filling-bookcase-shelves](https://github.com/neerajsahu14/coding-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/neerajsahu14/coding-problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Array
@@ -112,6 +113,7 @@
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
+| [1196-filling-bookcase-shelves](https://github.com/neerajsahu14/coding-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |

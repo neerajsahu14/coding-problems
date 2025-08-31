@@ -51,6 +51,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/neerajsahu14/coding-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/neerajsahu14/coding-problems/tree/master/1321-get-equal-substrings-within-budget) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neerajsahu14/coding-problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -81,6 +82,7 @@
 | [0650-2-keys-keyboard](https://github.com/neerajsahu14/coding-problems/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/neerajsahu14/coding-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/neerajsahu14/coding-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/neerajsahu14/coding-problems/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -154,6 +156,7 @@
 | [1217-relative-sort-array](https://github.com/neerajsahu14/coding-problems/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/neerajsahu14/coding-problems/tree/master/1511-count-number-of-teams) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/neerajsahu14/coding-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -306,6 +309,7 @@
 | [0476-number-complement](https://github.com/neerajsahu14/coding-problems/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/neerajsahu14/coding-problems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neerajsahu14/coding-problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/neerajsahu14/coding-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/neerajsahu14/coding-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -444,6 +448,7 @@
 | [0140-word-break-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Graph
 |  |
 | ------- |
@@ -634,4 +639,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->

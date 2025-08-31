@@ -223,6 +223,7 @@
 | [3388-right-triangles](https://github.com/neerajsahu14/coding-problems/tree/master/3388-right-triangles) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/neerajsahu14/coding-problems/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3398-make-a-square-with-the-same-color](https://github.com/neerajsahu14/coding-problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/neerajsahu14/coding-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/neerajsahu14/coding-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/neerajsahu14/coding-problems/tree/master/3429-special-array-i) |
@@ -348,6 +349,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/neerajsahu14/coding-problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3398-make-a-square-with-the-same-color](https://github.com/neerajsahu14/coding-problems/tree/master/3398-make-a-square-with-the-same-color) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/neerajsahu14/coding-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Binary Search
 |  |
@@ -765,6 +767,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3398-make-a-square-with-the-same-color](https://github.com/neerajsahu14/coding-problems/tree/master/3398-make-a-square-with-the-same-color) |
 ## Monotonic Stack
 |  |
 | ------- |

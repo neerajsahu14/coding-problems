@@ -212,6 +212,7 @@
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2645-pass-the-pillow](https://github.com/neerajsahu14/coding-problems/tree/master/2645-pass-the-pillow) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Matrix
 |  |
@@ -318,6 +319,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/neerajsahu14/coding-problems/tree/master/2058-concatenation-of-array) |
+| [2645-pass-the-pillow](https://github.com/neerajsahu14/coding-problems/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/neerajsahu14/coding-problems/tree/master/2846-robot-collisions) |
 ## Trie
 |  |

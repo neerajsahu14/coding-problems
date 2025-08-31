@@ -112,6 +112,7 @@
 | [0118 - Pascal's Triangle](https://github.com/neerajsahu14/coding-problems/tree/master/0118-pascals-triangle) |
 | [0119 - Pascal's Triangle II](https://github.com/neerajsahu14/coding-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121 - Best Time to Buy and Sell Stock](https://github.com/neerajsahu14/coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/neerajsahu14/coding-problems/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/neerajsahu14/coding-problems/tree/master/0169-majority-element) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/neerajsahu14/coding-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/neerajsahu14/coding-problems/tree/master/0476-number-complement) |

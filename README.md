@@ -57,6 +57,7 @@
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/neerajsahu14/coding-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/neerajsahu14/coding-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -358,6 +359,7 @@
 | [2058-concatenation-of-array](https://github.com/neerajsahu14/coding-problems/tree/master/2058-concatenation-of-array) |
 | [2645-pass-the-pillow](https://github.com/neerajsahu14/coding-problems/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/neerajsahu14/coding-problems/tree/master/2846-robot-collisions) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/neerajsahu14/coding-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Trie
 |  |
 | ------- |

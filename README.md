@@ -129,6 +129,7 @@
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [1196-filling-bookcase-shelves](https://github.com/neerajsahu14/coding-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/neerajsahu14/coding-problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1217-relative-sort-array](https://github.com/neerajsahu14/coding-problems/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -181,6 +182,7 @@
 | [0726-number-of-atoms](https://github.com/neerajsahu14/coding-problems/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajsahu14/coding-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1217-relative-sort-array](https://github.com/neerajsahu14/coding-problems/tree/master/1217-relative-sort-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -290,6 +292,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/neerajsahu14/coding-problems/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/neerajsahu14/coding-problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1217-relative-sort-array](https://github.com/neerajsahu14/coding-problems/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/neerajsahu14/coding-problems/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -562,6 +565,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/neerajsahu14/coding-problems/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajsahu14/coding-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Topological Sort
 |  |

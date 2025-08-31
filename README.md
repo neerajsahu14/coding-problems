@@ -231,6 +231,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/neerajsahu14/coding-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/neerajsahu14/coding-problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/neerajsahu14/coding-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3373-maximum-prime-difference](https://github.com/neerajsahu14/coding-problems/tree/master/3373-maximum-prime-difference) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/neerajsahu14/coding-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3388-right-triangles](https://github.com/neerajsahu14/coding-problems/tree/master/3388-right-triangles) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/3391-maximum-difference-score-in-a-grid) |
@@ -335,6 +336,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3373-maximum-prime-difference](https://github.com/neerajsahu14/coding-problems/tree/master/3373-maximum-prime-difference) |
 | [3388-right-triangles](https://github.com/neerajsahu14/coding-problems/tree/master/3388-right-triangles) |
 ## Matrix
 |  |
@@ -816,4 +818,8 @@
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2573-remove-nodes-from-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/neerajsahu14/coding-problems/tree/master/3373-maximum-prime-difference) |
 <!---LeetCode Topics End-->

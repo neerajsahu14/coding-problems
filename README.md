@@ -191,6 +191,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/neerajsahu14/coding-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/neerajsahu14/coding-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/neerajsahu14/coding-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3429-special-array-i](https://github.com/neerajsahu14/coding-problems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/neerajsahu14/coding-problems/tree/master/3430-count-days-without-meetings) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |

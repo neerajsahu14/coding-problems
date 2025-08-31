@@ -70,6 +70,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/neerajsahu14/coding-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/neerajsahu14/coding-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajsahu14/coding-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2444-longest-ideal-subsequence](https://github.com/neerajsahu14/coding-problems/tree/master/2444-longest-ideal-subsequence) |
 | [2502-sort-the-people](https://github.com/neerajsahu14/coding-problems/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/neerajsahu14/coding-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -223,6 +224,7 @@
 | [2103-find-all-groups-of-farmland](https://github.com/neerajsahu14/coding-problems/tree/master/2103-find-all-groups-of-farmland) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajsahu14/coding-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajsahu14/coding-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/neerajsahu14/coding-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/neerajsahu14/coding-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -341,6 +343,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/neerajsahu14/coding-problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajsahu14/coding-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/neerajsahu14/coding-problems/tree/master/2645-pass-the-pillow) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -375,6 +378,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/neerajsahu14/coding-problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2103-find-all-groups-of-farmland](https://github.com/neerajsahu14/coding-problems/tree/master/2103-find-all-groups-of-farmland) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/neerajsahu14/coding-problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/neerajsahu14/coding-problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/2914-find-the-safest-path-in-a-grid) |

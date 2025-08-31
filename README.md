@@ -65,6 +65,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/neerajsahu14/coding-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3379-score-of-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/neerajsahu14/coding-problems/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/neerajsahu14/coding-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/neerajsahu14/coding-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3451-string-compression-iii](https://github.com/neerajsahu14/coding-problems/tree/master/3451-string-compression-iii) |

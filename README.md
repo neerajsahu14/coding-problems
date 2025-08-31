@@ -219,6 +219,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/neerajsahu14/coding-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/neerajsahu14/coding-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/3391-maximum-difference-score-in-a-grid) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/neerajsahu14/coding-problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/neerajsahu14/coding-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/neerajsahu14/coding-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/neerajsahu14/coding-problems/tree/master/3429-special-array-i) |

@@ -149,6 +149,7 @@
 | [0053-maximum-subarray](https://github.com/neerajsahu14/coding-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/neerajsahu14/coding-problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/neerajsahu14/coding-problems/tree/master/0066-plus-one) |
 | [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/neerajsahu14/coding-problems/tree/master/0075-sort-colors) |
@@ -337,6 +338,7 @@
 | [0048-rotate-image](https://github.com/neerajsahu14/coding-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/neerajsahu14/coding-problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/neerajsahu14/coding-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
 | [0264-ugly-number-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |

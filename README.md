@@ -134,6 +134,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/neerajsahu14/coding-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1803-average-waiting-time](https://github.com/neerajsahu14/coding-problems/tree/master/1803-average-waiting-time) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/neerajsahu14/coding-problems/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/neerajsahu14/coding-problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -190,6 +191,7 @@
 | [0050-powx-n](https://github.com/neerajsahu14/coding-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/neerajsahu14/coding-problems/tree/master/0273-integer-to-english-words) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0870-magic-squares-in-grid](https://github.com/neerajsahu14/coding-problems/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/neerajsahu14/coding-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/neerajsahu14/coding-problems/tree/master/1240-stone-game-ii) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Matrix
@@ -312,6 +315,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/neerajsahu14/coding-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/neerajsahu14/coding-problems/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/neerajsahu14/coding-problems/tree/master/1803-average-waiting-time) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/neerajsahu14/coding-problems/tree/master/2058-concatenation-of-array) |
 | [2846-robot-collisions](https://github.com/neerajsahu14/coding-problems/tree/master/2846-robot-collisions) |
@@ -544,4 +548,8 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/neerajsahu14/coding-problems/tree/master/2472-build-a-matrix-with-conditions) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->

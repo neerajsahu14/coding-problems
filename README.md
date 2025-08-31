@@ -121,6 +121,7 @@
 | [0219-contains-duplicate-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/neerajsahu14/coding-problems/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/neerajsahu14/coding-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/neerajsahu14/coding-problems/tree/master/0330-patching-array) |
@@ -287,6 +288,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/neerajsahu14/coding-problems/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/neerajsahu14/coding-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/neerajsahu14/coding-problems/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/neerajsahu14/coding-problems/tree/master/0476-number-complement) |

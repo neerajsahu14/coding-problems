@@ -260,6 +260,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/neerajsahu14/coding-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion

@@ -220,6 +220,7 @@
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/neerajsahu14/coding-problems/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/neerajsahu14/coding-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/neerajsahu14/coding-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3388-right-triangles](https://github.com/neerajsahu14/coding-problems/tree/master/3388-right-triangles) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/neerajsahu14/coding-problems/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/neerajsahu14/coding-problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/neerajsahu14/coding-problems/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -320,6 +321,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3388-right-triangles](https://github.com/neerajsahu14/coding-problems/tree/master/3388-right-triangles) |
 ## Matrix
 |  |
 | ------- |
@@ -424,6 +426,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/neerajsahu14/coding-problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3388-right-triangles](https://github.com/neerajsahu14/coding-problems/tree/master/3388-right-triangles) |
 | [3412-permutation-difference-between-two-strings](https://github.com/neerajsahu14/coding-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/neerajsahu14/coding-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -436,12 +439,14 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/neerajsahu14/coding-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3388-right-triangles](https://github.com/neerajsahu14/coding-problems/tree/master/3388-right-triangles) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3388-right-triangles](https://github.com/neerajsahu14/coding-problems/tree/master/3388-right-triangles) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

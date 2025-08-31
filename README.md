@@ -279,6 +279,7 @@
 | [0264-ugly-number-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/neerajsahu14/coding-problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/neerajsahu14/coding-problems/tree/master/0273-integer-to-english-words) |
+| [0507-perfect-number](https://github.com/neerajsahu14/coding-problems/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0523-continuous-subarray-sum) |
 | [0564-find-the-closest-palindrome](https://github.com/neerajsahu14/coding-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/neerajsahu14/coding-problems/tree/master/0592-fraction-addition-and-subtraction) |

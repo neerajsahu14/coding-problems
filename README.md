@@ -75,6 +75,7 @@
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/neerajsahu14/coding-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/neerajsahu14/coding-problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/neerajsahu14/coding-problems/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -813,6 +814,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/neerajsahu14/coding-problems/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3398-make-a-square-with-the-same-color](https://github.com/neerajsahu14/coding-problems/tree/master/3398-make-a-square-with-the-same-color) |
 ## Monotonic Stack
 |  |

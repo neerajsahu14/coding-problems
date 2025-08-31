@@ -102,6 +102,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/neerajsahu14/coding-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/neerajsahu14/coding-problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/neerajsahu14/coding-problems/tree/master/0890-lemonade-change) |
+| [0921-spiral-matrix-iii](https://github.com/neerajsahu14/coding-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
@@ -177,6 +178,7 @@
 | [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [0870-magic-squares-in-grid](https://github.com/neerajsahu14/coding-problems/tree/master/0870-magic-squares-in-grid) |
+| [0921-spiral-matrix-iii](https://github.com/neerajsahu14/coding-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 | [1036 - Rotting Oranges](https://github.com/neerajsahu14/coding-problems/tree/master/1036-rotting-oranges) |
@@ -249,6 +251,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/neerajsahu14/coding-problems/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/neerajsahu14/coding-problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0921-spiral-matrix-iii](https://github.com/neerajsahu14/coding-problems/tree/master/0921-spiral-matrix-iii) |
 | [2048-build-array-from-permutation](https://github.com/neerajsahu14/coding-problems/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/neerajsahu14/coding-problems/tree/master/2058-concatenation-of-array) |
 ## Trie

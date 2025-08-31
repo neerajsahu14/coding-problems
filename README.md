@@ -59,6 +59,7 @@
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/neerajsahu14/coding-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3379-score-of-a-string](https://github.com/neerajsahu14/coding-problems/tree/master/3379-score-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/neerajsahu14/coding-problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Dynamic Programming
 |  |

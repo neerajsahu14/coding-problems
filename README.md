@@ -87,6 +87,7 @@
 | [1511-count-number-of-teams](https://github.com/neerajsahu14/coding-problems/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/neerajsahu14/coding-problems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Array
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2472-build-a-matrix-with-conditions](https://github.com/neerajsahu14/coding-problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/neerajsahu14/coding-problems/tree/master/2502-sort-the-people) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/neerajsahu14/coding-problems/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/neerajsahu14/coding-problems/tree/master/2846-robot-collisions) |
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
@@ -221,6 +223,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/neerajsahu14/coding-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/neerajsahu14/coding-problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/neerajsahu14/coding-problems/tree/master/2502-sort-the-people) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2846-robot-collisions](https://github.com/neerajsahu14/coding-problems/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/neerajsahu14/coding-problems/tree/master/3430-count-days-without-meetings) |
@@ -260,6 +263,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/neerajsahu14/coding-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/neerajsahu14/coding-problems/tree/master/2645-pass-the-pillow) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/neerajsahu14/coding-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Matrix
 |  |
@@ -347,6 +351,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/neerajsahu14/coding-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/neerajsahu14/coding-problems/tree/master/2502-sort-the-people) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/neerajsahu14/coding-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -363,6 +368,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -449,6 +455,7 @@
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [1022-unique-paths-iii](https://github.com/neerajsahu14/coding-problems/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Graph
 |  |
 | ------- |

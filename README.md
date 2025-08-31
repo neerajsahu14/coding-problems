@@ -178,6 +178,7 @@
 | [3194-find-words-containing-character](https://github.com/neerajsahu14/coding-problems/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/neerajsahu14/coding-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3430-count-days-without-meetings](https://github.com/neerajsahu14/coding-problems/tree/master/3430-count-days-without-meetings) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
@@ -340,6 +341,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/neerajsahu14/coding-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/neerajsahu14/coding-problems/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/neerajsahu14/coding-problems/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3788 - Maximum Unique Subarray Sum After Deletion](https://github.com/neerajsahu14/coding-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |

@@ -69,6 +69,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/neerajsahu14/coding-problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/neerajsahu14/coding-problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/neerajsahu14/coding-problems/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2044-number-of-wonderful-substrings](https://github.com/neerajsahu14/coding-problems/tree/master/2044-number-of-wonderful-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/neerajsahu14/coding-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/2163-kth-distinct-string-in-an-array) |

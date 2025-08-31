@@ -90,6 +90,7 @@
 | [0053-maximum-subarray](https://github.com/neerajsahu14/coding-problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/neerajsahu14/coding-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/neerajsahu14/coding-problems/tree/master/0085-maximal-rectangle) |
 | [0118 - Pascal's Triangle](https://github.com/neerajsahu14/coding-problems/tree/master/0118-pascals-triangle) |
 | [0119 - Pascal's Triangle II](https://github.com/neerajsahu14/coding-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121 - Best Time to Buy and Sell Stock](https://github.com/neerajsahu14/coding-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -144,6 +145,7 @@
 | [0075-sort-colors](https://github.com/neerajsahu14/coding-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/neerajsahu14/coding-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/neerajsahu14/coding-problems/tree/master/0085-maximal-rectangle) |
 | [0088 - Merge Sorted Array](https://github.com/neerajsahu14/coding-problems/tree/master/0088-merge-sorted-array) |
 | [0118 - Pascal's Triangle](https://github.com/neerajsahu14/coding-problems/tree/master/0118-pascals-triangle) |
 | [0119 - Pascal's Triangle II](https://github.com/neerajsahu14/coding-problems/tree/master/0119-pascals-triangle-ii) |
@@ -349,6 +351,7 @@
 | [0073 - Set Matrix Zeroes](https://github.com/neerajsahu14/coding-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/neerajsahu14/coding-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/neerajsahu14/coding-problems/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/neerajsahu14/coding-problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/neerajsahu14/coding-problems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/neerajsahu14/coding-problems/tree/master/0463-island-perimeter) |
@@ -516,6 +519,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/neerajsahu14/coding-problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/neerajsahu14/coding-problems/tree/master/0726-number-of-atoms) |
@@ -823,6 +827,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/neerajsahu14/coding-problems/tree/master/0085-maximal-rectangle) |
 | [2573-remove-nodes-from-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |

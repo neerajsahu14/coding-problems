@@ -24,6 +24,7 @@
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/neerajsahu14/coding-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/neerajsahu14/coding-problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0953-reverse-only-letters](https://github.com/neerajsahu14/coding-problems/tree/master/0953-reverse-only-letters) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/neerajsahu14/coding-problems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -145,6 +146,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/neerajsahu14/coding-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/neerajsahu14/coding-problems/tree/master/0648-replace-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/neerajsahu14/coding-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/neerajsahu14/coding-problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0870-magic-squares-in-grid](https://github.com/neerajsahu14/coding-problems/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/neerajsahu14/coding-problems/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/neerajsahu14/coding-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -230,6 +232,7 @@
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/neerajsahu14/coding-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/neerajsahu14/coding-problems/tree/master/0726-number-of-atoms) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/neerajsahu14/coding-problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0876-hand-of-straights](https://github.com/neerajsahu14/coding-problems/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/neerajsahu14/coding-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0948-sort-an-array) |
@@ -326,6 +329,7 @@
 | [0611 - Valid Triangle Number](https://github.com/neerajsahu14/coding-problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/neerajsahu14/coding-problems/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/neerajsahu14/coding-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/neerajsahu14/coding-problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1321-get-equal-substrings-within-budget](https://github.com/neerajsahu14/coding-problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/neerajsahu14/coding-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/neerajsahu14/coding-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -410,6 +414,7 @@
 | [0264-ugly-number-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0264-ugly-number-ii) |
 | [0502-ipo](https://github.com/neerajsahu14/coding-problems/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/neerajsahu14/coding-problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/neerajsahu14/coding-problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/neerajsahu14/coding-problems/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/neerajsahu14/coding-problems/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/neerajsahu14/coding-problems/tree/master/1127-last-stone-weight) |

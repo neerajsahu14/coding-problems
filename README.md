@@ -260,6 +260,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/neerajsahu14/coding-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/0206-reverse-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -268,6 +269,7 @@
 | [0206-reverse-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/neerajsahu14/coding-problems/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/neerajsahu14/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2573-remove-nodes-from-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -465,6 +467,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/neerajsahu14/coding-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2573-remove-nodes-from-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2846-robot-collisions](https://github.com/neerajsahu14/coding-problems/tree/master/2846-robot-collisions) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Sliding Window
@@ -727,4 +730,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/neerajsahu14/coding-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/neerajsahu14/coding-problems/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->

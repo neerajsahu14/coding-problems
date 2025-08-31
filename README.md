@@ -228,6 +228,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/neerajsahu14/coding-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Sliding Window
 |  |
@@ -274,6 +275,7 @@
 | [0110-balanced-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/neerajsahu14/coding-problems/tree/master/0133-clone-graph) |
+| [0145-binary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -314,6 +316,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -333,6 +336,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0530-minimum-absolute-difference-in-bst) |

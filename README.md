@@ -49,6 +49,7 @@
 | [0212-word-search-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/neerajsahu14/coding-problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/neerajsahu14/coding-problems/tree/master/0344-reverse-string) |
+| [0514-freedom-trail](https://github.com/neerajsahu14/coding-problems/tree/master/0514-freedom-trail) |
 | [0564-find-the-closest-palindrome](https://github.com/neerajsahu14/coding-problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/neerajsahu14/coding-problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0648-replace-words](https://github.com/neerajsahu14/coding-problems/tree/master/0648-replace-words) |
@@ -90,6 +91,7 @@
 | [0131-palindrome-partitioning](https://github.com/neerajsahu14/coding-problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0264-ugly-number-ii) |
+| [0514-freedom-trail](https://github.com/neerajsahu14/coding-problems/tree/master/0514-freedom-trail) |
 | [0552-student-attendance-record-ii](https://github.com/neerajsahu14/coding-problems/tree/master/0552-student-attendance-record-ii) |
 | [0650-2-keys-keyboard](https://github.com/neerajsahu14/coding-problems/tree/master/0650-2-keys-keyboard) |
 | [1025-minimum-cost-for-tickets](https://github.com/neerajsahu14/coding-problems/tree/master/1025-minimum-cost-for-tickets) |
@@ -570,6 +572,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/neerajsahu14/coding-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0514-freedom-trail](https://github.com/neerajsahu14/coding-problems/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0572-subtree-of-another-tree) |
@@ -596,6 +599,7 @@
 | [0112-path-sum](https://github.com/neerajsahu14/coding-problems/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/neerajsahu14/coding-problems/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0226-invert-binary-tree) |
+| [0514-freedom-trail](https://github.com/neerajsahu14/coding-problems/tree/master/0514-freedom-trail) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/neerajsahu14/coding-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neerajsahu14/coding-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/neerajsahu14/coding-problems/tree/master/0999-regions-cut-by-slashes) |
